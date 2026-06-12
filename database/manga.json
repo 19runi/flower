@@ -1,47 +1,8 @@
-// manga.json - appV1.0 Rev 0
-{
-  "manga_id": "dragonslayer-peerless-regression",
-  "title": "A Dragonslayer's Peerless Regression",
-  "alternative_titles": [
-    "Dragon Devouring Mage",
-    "回歸的屠龍者"
-  ],
-  "status": "Ongoing",
-  "author": "Yusoo",
-  "artist": "N/A",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Shounen"
-  ],
-  "type": "Manhwa",
-  "release_year": 2023,
-  "rating": 4.8,
-  "synopsis": "Pahlawan umat manusia terhebat, sang pembunuh naga. Dia yang telah kehilangan segalanya dan dikhianati pada akhirnya mendapatkan kesempatan kedua. Menggunakan ingatannya dari kehidupan sebelumnya, dia bersumpah untuk mengakhiri segalanya dengan tangannya sendiri dan membalas dendam kepada mereka yang telah menghancurkan dunianya.",
-  "cover_url": "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/covers/dragonslayer-peerless-regression.jpg",
-  "chapters": [
-    {
-      "chapter_number": 1,
-      "chapter_title": "The End and The Beginning",
-      "pages": [
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga/dragonslayer/ch-01/001.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga/dragonslayer/ch-01/002.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga/dragonslayer/ch-01/003.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga/dragonslayer/ch-01/004.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga/dragonslayer/ch-01/005.jpg"
-      ]
-    },
-    {
-      "chapter_number": 2,
-      "chapter_title": "Awakening in the Past",
-      "pages": [
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga/dragonslayer/ch-02/001.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga/dragonslayer/ch-02/002.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga/dragonslayer/ch-02/003.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga/dragonslayer/ch-02/004.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga/dragonslayer/ch-02/005.jpg"
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": "YWN0aW9uL0Nocm9uaWNsZXMgT2YgVGhlIE1hcnRpYWwgR29kX3MgUmV0dXJuLmNieg",
+    "title": "Chronicles Of The Martial God_s Return",
+    "path": "action/Chronicles Of The Martial God_s Return.cbz",
+    "cover_url": "https://picsum.photos/200/300?random=796"
+  }
+]
